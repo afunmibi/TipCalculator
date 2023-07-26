@@ -29,7 +29,7 @@ h1{
     border-radius: 5px;
     margin-bottom: 10px;
     text-transform: uppercase;
-    width: max-content
+    width: 100%;
     
 }
 input{
@@ -91,13 +91,15 @@ button:hover{
         text-align: center;
     }
     h1{
+        h1{
         text-align: center;
         justify-content: center;
         align-items: center;
-        margin: 0 auto;
         width: 80%;
         padding: 5px;
         margin-right: 5px;
         margin-left: 5px;
+    }
+
     }
 }
